@@ -1,7 +1,8 @@
 # The Broom
 
 This is a wiki for documenting cool ideas. And stuff.
-![broom](images/broom.jpg)
+
+<img src="images/broom.jpg" width="400">
 
 ## The Broomstick
 The broom is a weekly meeting of people who like to explore new ideas and work on projects together, with the intention of self improvement and spreading knowledge.
