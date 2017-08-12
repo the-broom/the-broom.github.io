@@ -5,11 +5,9 @@ This is a wiki for documenting cool ideas. And stuff.
 ## The Broomstick
 So wtf is the broom?!?!
 
-the broom is a weekly meeting of people who like to learn about new ideas and work on projects, created with the intent of self improvement and spreading knowledge.
+The broom is a weekly meeting of people who like to learn about new ideas and work on projects together, with the intention of self improvement and spreading knowledge.
 
-the broom is open ended, but we try to keep conversations intellectually stimulating.
-
-so get lit! (with knowledge)
+The broom is open ended, but we try to keep conversations intellectually stimulating. It's also decentralized, so all members have equal say on admins trivia.
 
 ## How to Contribute
 Clone this repo.
